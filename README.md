@@ -12,5 +12,7 @@ In order to expand its credit card portfolio, the bank is looking to build a cre
 We have two data sets, which are as follows: 
 
 Credit card application: This contains the demographic information of the users who are applying for the credit card. 
+https://drive.google.com/file/d/1wKjwtEo5HeRLTo7i_sYbfk0KrfnNaPtu/view?usp=sharing
 
 Credit card performance: This contains the performance of the users after they are issued the credit card.
+https://drive.google.com/file/d/1Al7qLBhz0eYBSFp_9WQXFy1nZkx5a2X2/view?usp=sharing
